@@ -190,3 +190,34 @@ section#professional-challenges img {
 section#professional-challenges p {
   margin-top: 40px;
 }
+
+footer {
+  background: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.6) 0%,
+      rgba(49, 168, 221, 0.2) 100%
+    )
+    #000;
+
+  height: 170px;
+
+  border-top: 1px solid #33a8db;
+
+  text-align: center;
+}
+
+footer img {
+  margin-top: 59px;
+}
+
+footer p {
+  margin-top: 10px;
+}
+
+footer a {
+  color: #33a8db;
+
+  font-weight: 700;
+
+  text-decoration: none;
+}
