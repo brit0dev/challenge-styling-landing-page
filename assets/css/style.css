@@ -147,7 +147,21 @@ section#course-content .module span {
 section#transform-world {
   background: url('/assets/images/woman-code.png') center/cover fixed no-repeat
     padding-box #000;
+  height: 363px;
 
   border-top: 1px solid #33a8db;
   border-bottom: 1px solid #33a8db;
+}
+
+section#transform-world p {
+  color: #fff;
+
+  width: 250px;
+
+  margin: 111px 198px;
+
+  font: 900 40px 'raleway';
+
+  text-transform: lowercase;
+  text-shadow: 3px 2px #33a8db;
 }
