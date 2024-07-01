@@ -165,3 +165,28 @@ section#transform-world p {
   text-transform: lowercase;
   text-shadow: 3px 2px #33a8db;
 }
+
+section#professional-challenges {
+  width: 800px;
+
+  margin: 76px auto 91px;
+
+  text-align: center;
+}
+
+section#professional-challenges h2 {
+  color: #33a8db;
+
+  font: 700 32px 'raleway';
+
+  text-transform: uppercase;
+  letter-spacing: 6px;
+}
+
+section#professional-challenges img {
+  margin-top: 32px;
+}
+
+section#professional-challenges p {
+  margin-top: 40px;
+}
